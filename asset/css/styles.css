@@ -1,6 +1,6 @@
 @font-face {
     font-family: "titulo";
-    src: url(./asset/font/BRITANIC.TTF) format("truetype");
+    src: url('/asset/font/BRITANIC.TTF') format("truetype");
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Caramel&display=swap');
